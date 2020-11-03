@@ -1,3 +1,4 @@
 #Test File
 
-print("Hello world")
+my_string = "Test string"
+print(f'{my_string} is a string')
